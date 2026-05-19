@@ -1,3 +1,5 @@
-javac -cp "lib/mysql-connector-j-8.0.33.jar" GymApp.java Member.java DatabaseConnection.java
+Step1: Open terminal in your folder
 
-java -cp ".;lib/mysql-connector-j-8.0.33.jar" GymApp
+Step2:javac -cp "lib/mysql-connector-j-8.0.33.jar" GymApp.java Member.java DatabaseConnection.java
+
+Step3:java -cp ".;lib/mysql-connector-j-8.0.33.jar" GymApp
