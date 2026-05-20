@@ -2,8 +2,7 @@
 class Member {
     protected String id;
     protected String name;
-    protected double baseFee = 1000.0; /
-
+    protected double baseFee = 1000.0; 
     
     public Member(String id, String name) {
         this.id = id;
